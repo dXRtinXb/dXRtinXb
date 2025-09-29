@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=ai,ae,pr,ps)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,git,github,docker,js,html,css,wasm,java,kotlin,figma&theme=light,ai,ae,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=py,django,git,github" />
   </a>
 </p>
 
