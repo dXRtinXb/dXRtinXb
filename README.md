@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dXRtinXb&show_icons=true&theme=mekro&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dXRtinXb&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dXRtinXb&theme=mekro&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dXRtinXb&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dXRtinXb&layout=compact&theme=mekro&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dXRtinXb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
