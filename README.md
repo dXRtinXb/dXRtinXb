@@ -29,14 +29,11 @@ Skills:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=dark,idea,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django,git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django,git,github)](https://skillicons.dev)
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=django,git,github)](https://skillicons.dev)
 
 
 
@@ -47,6 +44,11 @@ Skills:
 
 
 graphics:
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
