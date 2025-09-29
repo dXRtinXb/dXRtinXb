@@ -1,10 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Artin+👋;Cybersecurity+%7C+Developer+%7C+Designer;Always+curious%2C+always+learning+🚀" alt="Typing SVG" />
-</p>
-
----
-
 # 🧑‍💻 About Me  
 🎯 Passionate about **coding, design, and cybersecurity**  
 💻 Currently learning: **Django | Networking | Linux | Cybersecurity**  
