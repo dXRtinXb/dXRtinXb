@@ -59,6 +59,15 @@ Here are some ideas to get you started:
 
 
 [![My Skills]([https://skillicons.dev/icons?i=html,css,js,java,kotlin,idea,python,diango])](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
