@@ -22,16 +22,20 @@ Here are some ideas to get you started:
 
 
 
-Skills:
+**Programing skills:**
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=html,css,vscode,java,kotlin,figma&theme=dark , cs,django,git,github]" />
+  </a>
+</p>
 
 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=dark,idea)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,git,github)](https://skillicons.dev)
 
 
 
@@ -41,9 +45,15 @@ Skills:
 
 
 
-graphics:
+
+**Graphic Skills:**
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=ai,ae,ps,pr]" />
+  </a>
+</p>
 
 
 
