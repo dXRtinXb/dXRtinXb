@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 
 **Programing skills:**
 
-
-
-[![My Skills]([https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,diango])](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ae,pr,ps)](https://skillicons.dev)
 
 
 
