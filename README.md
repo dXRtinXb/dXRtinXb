@@ -53,16 +53,18 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=html,css,js,java,,ai,ae,ps,pr]" />
+    <img src="[https://skillicons.dev/icons?i=html,css,js,java,kotlin,idea,python,diango,ai,ae,ps,pr]" />
   </a>
 </p>
 
 
-
+[![My Skills]([https://skillicons.dev/icons?i=html,css,js,java,kotlin,idea,python,diango])](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+
+
 
 
 
