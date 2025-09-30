@@ -1,70 +1,71 @@
-<!-- Banner -->
-# 🧑‍💻 About Me  
-🎯 Passionate about **coding, design, and cybersecurity**  
-💻 Currently learning: **Django | Networking | Linux | Cybersecurity**  
-🎨 Interests: **Graphic Design, Web Development, Gaming (zombies 🧟)**  
-⚡ Fun fact: I run both *Windows* and *Kali Linux* for projects  
+<!-- HEADER -->
+<h1 align="center">⚡ Welcome to <span style="color:#A855F7;">Artin's Cyber Hub</span> ⚡</h1>
 
----
-
-## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer+%7C+Linux+Ninja;Django+%7C+Kotlin+%7C+Java+%7C+MySQL;Designer+%7C+Gamer+%7C+Creator;Always+Curious%2C+Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dXRtinXb&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+## 🧑‍💻 Who Am I?
+- 🎯 Passionate about **coding, design, and cybersecurity**  
+- 🐧 Linux + **Kali explorer**  
+- 🛠 Currently mastering: **Django | Docker | Networking**  
+- 🎮 Loves **zombie games 🧟**  
+- ⚡ Running projects on **Windows** + **Kali Linux**  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dXRtinXb&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
+## 🚀 My Cyberpunk Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dXRtinXb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=py,django,java,kotlin,mysql,mongodb,docker,html,css,linux,kali,git,github,idea,vscode,ps,ai,pr" />
 </p>
 
 ---
 
-## 🛠 Programming & Creative Skills
+## 🏆 Achievements Board
 <p align="center">
-  <a href="https://github.com/dxRtinxb">
-    <img src="https://skillicons.dev/icons?i=py,django,git,github,html,css,js,kotlin,java,docker,mongodb,linux,kali,cs,idea,ai,ae,pr,ps" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dxRtinxb&theme=radical&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌌 Activity Galaxy
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxRtinxb&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Evolution
+<p align="center">
+  <img src="https://github.com/dxRtinxb/dxRtinxb/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎶 Soundtrack of My Code
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/artin_ab87/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aabbassin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aabbassin@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/artin_ab87/"><img src="https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-✨ *Artin — building, breaking, and learning every day.* ⚡
+## 💡 Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">✨ *Not just coding the future — designing it.* ✨</p>
