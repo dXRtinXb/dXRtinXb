@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&width=700&lines=Developer+%7C+Backend+%7C+Linux+User;Python+%7C+JavaScript+%7C+Node.js+%7C+React;Security+Basics+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&width=700&lines=Developer+%7C+Backend+%7C+Linux;Python+%7C+JavaScript+%7C+Node.js+%7C+React;Security+Basics+%7C+Machine+Learning" />
 
 ---
 
