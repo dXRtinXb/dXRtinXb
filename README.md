@@ -1,11 +1,10 @@
 <!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&width=700&lines=Developer+%7C+Backend+%7C+Linux;Python+%7C+JavaScript+%7C+Node.js+%7C+React;Security+Basics+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&width=700&lines=Backend+%7C+Linux;Python+%7C+JavaScript+%7C+Node.js+%7C+React;SecurityBasics+%7C+Machine+Learning" />
 
 ---
 
 ## 👨‍💻 About Me
-- Developer focused on **backend, automation, and system-level work**
-- Interested in AI field (ForNow)
+- Interested in Machine learning(ForNow)
 - Passionate about building **practical, real-world projects**
 
 ---
@@ -22,7 +21,3 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea" />
-
----
-
-⚡ *Talk is cheap. Show me the code.* ⚡
