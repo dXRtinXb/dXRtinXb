@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- Interested in Machine learning(ForNow)
+- Interested in Machine learning
 - Passionate about building **practical, real-world projects**
 
 ---
