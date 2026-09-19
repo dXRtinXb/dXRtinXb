@@ -9,6 +9,7 @@
 * Interested in **Machine Learning & AI**
 * Building **practical, real-world projects**
 * Exploring **backend development, AI systems, and automation**
+* Currently using **Fedora KDE plasma 44**
 
 ---
 
